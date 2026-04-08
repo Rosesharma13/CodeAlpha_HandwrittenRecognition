@@ -62,13 +62,15 @@ The project uses a standard handwritten digits dataset (such as MNIST/digits dat
 ## 📊 Data Analysis
 
 ### 🔹 Sample Images
-![Sample Images](images/sample_images.png)
+<img width="1489" height="678" alt="sample images" src="https://github.com/user-attachments/assets/b8401268-cf1a-458d-a1bf-b3c9e40bc4d5" />
+
+
 The dataset contains handwritten digit images used for training and testing.
 
 ---
 
 ### 🔹 Class Distribution
-![Class Distribution](images/class_distribution.png)
+<img width="1686" height="603" alt="class distribution" src="https://github.com/user-attachments/assets/995f9aa2-0255-4a73-b2d1-96264192a4c8" />
 
 The dataset shows a balanced distribution across all digit classes.
 
@@ -77,7 +79,7 @@ The dataset shows a balanced distribution across all digit classes.
 ## 🤖 Model Training (CNN)
 
 ### 🔹 Training History
-![Training History](images/CNN_training_history.png)
+<img width="1389" height="495" alt="CNN training history" src="https://github.com/user-attachments/assets/e8feb809-d5e1-4c80-a167-3a256da4cdb6" />
 
 The model shows steady improvement in accuracy and reduction in loss over epochs.
 
@@ -86,7 +88,7 @@ The model shows steady improvement in accuracy and reduction in loss over epochs
 ## 📉 Model Evaluation
 
 ### 🔹 Confusion Matrix
-![Confusion Matrix](images/CNN_confusion_matrix.png)
+<img width="931" height="790" alt="CNN confusion matrix" src="https://github.com/user-attachments/assets/805c9023-7fdb-42f8-b745-6778d07f3b34" />
 
 The confusion matrix indicates strong classification performance with minimal misclassification.
 
@@ -95,7 +97,7 @@ The confusion matrix indicates strong classification performance with minimal mi
 ## 🔍 Predictions
 
 ### 🔹 CNN Predictions on Test Samples
-![Predictions](images/CNN_predictions.png)
+<img width="1683" height="568" alt="CNN prediction on test sample" src="https://github.com/user-attachments/assets/cd80514d-8a7c-4342-941e-7432a0fdc7a5" />
 
 The model successfully predicts handwritten digits on unseen test data.
 
@@ -144,5 +146,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📬 Contact
-Rose Sharma
+## 👩‍💻 Author
+**Rose Sharma** | CodeAlpha ML Internship
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rose-sharma13)
+
